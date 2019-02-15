@@ -1,0 +1,99 @@
+{
+  "status": {
+    "timestamp": "2019-02-13T16:23:37.525Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 6,
+    "credit_count": 1
+  },
+  "data": {
+    "ETH": {
+      "id": 1027,
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "slug": "ethereum",
+      "circulating_supply": 104844715.2491,
+      "total_supply": 104844715.2491,
+      "max_supply": null,
+      "date_added": "2015-08-07T00:00:00.000Z",
+      "num_market_pairs": 4255,
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "cmc_rank": 2,
+      "last_updated": "2019-02-13T16:23:18.000Z",
+      "quote": {
+        "BTC": {
+          "price": 0.03370048914301115,
+          "volume_24h": 943119.0391109672,
+          "percent_change_1h": 0.0713,
+          "percent_change_24h": 1.5619,
+          "percent_change_7d": 10.4993,
+          "market_cap": 3533318.18795439,
+          "last_updated": "2019-02-13T16:23:23.000Z"
+        }
+      }
+    },
+    "LTC": {
+      "id": 2,
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "slug": "litecoin",
+      "circulating_supply": 60451499.7738777,
+      "total_supply": 60451499.7738777,
+      "max_supply": 84000000,
+      "date_added": "2013-04-28T00:00:00.000Z",
+      "num_market_pairs": 546,
+      "tags": [
+        "mineable"
+      ],
+      "platform": null,
+      "cmc_rank": 5,
+      "last_updated": "2019-02-13T16:23:05.000Z",
+      "quote": {
+        "BTC": {
+          "price": 0.011482386085706335,
+          "volume_24h": 307427.5373238021,
+          "percent_change_1h": 0.0699,
+          "percent_change_24h": -2.9619,
+          "percent_change_7d": 19.2777,
+          "market_cap": 694127.459863653,
+          "last_updated": "2019-02-13T16:23:23.000Z"
+        }
+      }
+    },
+    "PLAY": {
+      "id": 2323,
+      "name": "HEROcoin",
+      "symbol": "PLAY",
+      "slug": "herocoin",
+      "circulating_supply": 127210773.639004,
+      "total_supply": 252165028.705395,
+      "max_supply": null,
+      "date_added": "2017-12-30T00:00:00.000Z",
+      "num_market_pairs": 0,
+      "tags": [],
+      "platform": {
+        "id": 1027,
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "slug": "ethereum",
+        "token_address": "0xe477292f1b3268687a29376116b0ed27a9c76170"
+      },
+      "cmc_rank": 861,
+      "last_updated": "2019-02-13T16:23:03.000Z",
+      "quote": {
+        "BTC": {
+          "price": 0.0000011643890238797222,
+          "volume_24h": 11.315116992132365,
+          "percent_change_1h": -3.4238,
+          "percent_change_24h": -10.6436,
+          "percent_change_7d": -8.8468,
+          "market_cap": 148.12282854450416,
+          "last_updated": "2019-02-13T16:23:23.000Z"
+        }
+      }
+    }
+  }
+}

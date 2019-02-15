@@ -138,6 +138,7 @@
 		<module>xchange-coinfloor</module>
 		<module>xchange-coingi</module>
 		<module>xchange-coinmarketcap</module>
+		<module>xchange-coinmarketcap-pro</module>
 		<module>xchange-coinmate</module>
 		<module>xchange-core</module>
 		<module>xchange-cryptofacilities</module>
